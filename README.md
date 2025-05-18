@@ -10,8 +10,6 @@
 ![изображение](https://github.com/user-attachments/assets/f02a34d8-a229-42b6-85ff-018785f1fabc)
 
 - Возможность менять стиль доски
-![изображение](https://github.com/user-attachments/assets/6f7fe023-9737-4c49-af89-55e7d6a7f965)
-
 
 ## Используемые технологии
 
